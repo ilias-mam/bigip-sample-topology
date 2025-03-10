@@ -20,8 +20,8 @@ This document provides an overview of the WAN network configuration, including I
 - **Subnet**: 192.168.3.0/24
 
 ## BigIPS - Virtual IPS
-- **Service-Prpd-1**: 192.168.1.20
-- **Service-Prpd-2**: 192.168.1.21
+- **Service-prd-1**: 192.168.1.20
+- **Service-prd-2**: 192.168.1.21
 - **Service-Test-1**: 192.168.1.22
 
 ## Cluster Configuration
@@ -49,20 +49,20 @@ This document provides an overview of the WAN network configuration, including I
 
 ## Service Pools
 
-### Services-Prpd-1 Pool
-- **Service-Prpd-2 Pool**
-- **Service-Prpd-3 Pool**
+### Services-prd-1 Pool
+- **Service-prd-2 Pool**
+- **Service-prd-3 Pool**
 - **Service-Test Pool**
 
 ### Members
 - **Service-Prot-1 member1**: 192.18.2.11
-- **IS Servers prpd-3 member1**: 192.18.2.21
-- **IS Servers prpd-2 member2**: 192.18.2.22
-- **IS Servers prpd-3 member2**: 192.18.2.23
-- **IS Servers prpd-2 member3**: 192.18.2.24
-- **IS Servers prpd-3 member3**: 192.18.2.25
-- **IS Servers prpd-2 member3**: 192.18.2.26
-- **IS Servers prpd-3 member3**: 192.18.2.27
+- **IS Servers prd-3 member1**: 192.18.2.21
+- **IS Servers prd-2 member2**: 192.18.2.22
+- **IS Servers prd-3 member2**: 192.18.2.23
+- **IS Servers prd-2 member3**: 192.18.2.24
+- **IS Servers prd-3 member3**: 192.18.2.25
+- **IS Servers prd-2 member3**: 192.18.2.26
+- **IS Servers prd-3 member3**: 192.18.2.27
 
 ### Service-Test Pool
 - **IS Server-Test**: 192.168.33.11
