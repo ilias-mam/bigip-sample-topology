@@ -1,6 +1,6 @@
 # BIGIP Network Documentation
 
-![Bigip-Network-Example](https://github.com/ilias-mam/bigip-sample-topology/blob/main/Bigip-Network-Example.png?raw=true)
+![Bigip-Network-Example](https://raw.githubusercontent.com/ilias-mam/bigip-sample-topology/main/Bigip-Network-Example.png)
 
 ## Overview
 This document provides an overview of the WAN network configuration, including IP addresses, clusters, and services.
