@@ -1,5 +1,7 @@
 # BIGIP Network Documentation
 
+![Bigip-Network-Example](Bigip-Network-Example.drawio (3).png)
+
 ## Overview
 This document provides an overview of the WAN network configuration, including IP addresses, clusters, and services.
 
