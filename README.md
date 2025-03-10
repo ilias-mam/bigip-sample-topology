@@ -16,7 +16,7 @@ This document provides an overview of the WAN network configuration, including I
 ### LAN Network
 - **Subnet**: 192.168.2.0/24
 
-### Task Network
+### Test Network
 - **Subnet**: 192.168.3.0/24
 
 ## BigIPS - Virtual IPS
