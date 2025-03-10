@@ -1,11 +1,11 @@
-# VIAN Network Documentation
+# BIGIP Network Documentation
 
 ## Overview
-This document provides an overview of the VIAN network configuration, including IP addresses, clusters, and services.
+This document provides an overview of the WAN network configuration, including IP addresses, clusters, and services.
 
 ## Network Segments
 
-### VIAN Network
+### WAN Network
 - **Subnet**: 192.168.1.0/24
 
 ### Cluster Network
@@ -32,7 +32,7 @@ This document provides an overview of the VIAN network configuration, including 
   - **Management IP**: 172.16.0.1
   - **Cluster IP**: 172.16.1.1
 
-### Floating IPs
+### Floating IPs between the two bigips
 - **Floating WAN**: 192.168.1.10
 - **Floating LAN**: 192.168.2.10
 - **Floating Test**: 192.168.3.10
